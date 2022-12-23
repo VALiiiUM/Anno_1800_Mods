@@ -1,5 +1,5 @@
-# VAL3iUM Mods
-
-## Lost Cargo : Items
+# Lost Cargo : Items
 
 ![](./files/lostcargobanner.jpg)
+
+## Description
