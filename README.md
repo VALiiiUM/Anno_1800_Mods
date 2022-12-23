@@ -6,3 +6,8 @@
 
 
 # Insta Residences
+
+![](./files/instaresbanner.jpg)
+
+- Upgrade? Build the tier you want! [More Details](./files/INSTARES.md)
+
