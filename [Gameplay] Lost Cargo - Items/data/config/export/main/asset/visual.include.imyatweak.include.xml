@@ -1,0 +1,20 @@
+<ModOps>
+  <ModOp Path="/Values/Text/LocaText/English/Text" GUID="253642" Type="add">
+    <Text>Activate those to replace the usual boxes with colorful gifts.</Text>
+  </ModOp>
+  <ModOp Path="/Values/Object/Variations/Item/Filename" GUID="1345005022" Type="replace">
+    <Filename>data/graphics/quest/objects/box_stack_large/large_wooden_boxes_03.cfg</Filename>
+  </ModOp>
+  <ModOp Path="/Values/Object/Variations/Item/Filename" GUID="1345005023" Type="replace">
+    <Filename>data/graphics/quest/objects/box_stack_large/large_wooden_boxes_03.cfg</Filename>
+  </ModOp>
+  <ModOp Path="/Values/Object/Variations/Item/Filename" GUID="1345005024" Type="replace">
+    <Filename>data/graphics/quest/objects/box_stack_large/large_wooden_boxes_03.cfg</Filename>
+  </ModOp>
+  <ModOp Path="/Values/Object/Variations/Item/Filename" GUID="1345005025" Type="replace">
+    <Filename>data/graphics/quest/objects/box_stack_large/large_wooden_boxes_03.cfg</Filename>
+  </ModOp>
+  <ModOp Path="/Values/Object/Variations/Item/Filename" GUID="1345005026" Type="replace">
+    <Filename>data/graphics/quest/objects/box_stack_large/large_wooden_boxes_03.cfg</Filename>
+  </ModOp>
+</ModOps>

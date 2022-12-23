@@ -1,0 +1,5 @@
+<ModOps>
+  <ModOp Path="/TextExport/Texts/Text[GUID='3472']/Text" Type="replace">
+    <Text>Verlorene Fracht gefunden!</Text>
+  </ModOp>
+</ModOps>

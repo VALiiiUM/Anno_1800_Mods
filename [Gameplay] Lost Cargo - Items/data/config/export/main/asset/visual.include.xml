@@ -1,0 +1,48 @@
+<ModOps>
+  <ModOp GUID="253642" Type="add" Path="/Values/Text/LocaText/English/Text" ModOpID="Section1" Skip="1">
+    <Text>Activate those to replace the usual boxes with colorful gifts.</Text>
+  </ModOp>
+  <ModOp GUID="1345005022" Type="replace" Path="/Values/Object/Variations/Item/Filename" ModOpID="GiftBoxReplacement1" Skip="1">
+    <Filename>data/graphics/quest/objects/christmas_gift/large_gift_yellow.cfg</Filename>
+  </ModOp>
+  <ModOp GUID="1345005023" Type="replace" Path="/Values/Object/Variations/Item/Filename" ModOpID="GiftBoxReplacement2" Skip="1">
+    <Filename>data/graphics/quest/objects/christmas_gift/large_gift_blue.cfg</Filename>
+  </ModOp>
+  <ModOp GUID="1345005024" Type="replace" Path="/Values/Object/Variations/Item/Filename" ModOpID="GiftBoxReplacement3" Skip="1">
+    <Filename>data/graphics/quest/objects/christmas_gift/large_gift_green.cfg</Filename>
+  </ModOp>
+  <ModOp GUID="1345005025" Type="replace" Path="/Values/Object/Variations/Item/Filename" ModOpID="GiftBoxReplacement4" Skip="1">
+    <Filename>data/graphics/quest/objects/christmas_gift/large_gift_red.cfg</Filename>
+  </ModOp>
+  <ModOp GUID="1345005026" Type="replace" Path="/Values/Object/Variations/Item/Filename" ModOpID="GiftBoxReplacement5" Skip="1">
+    <Filename>data/graphics/quest/objects/christmas_gift/large_gift_purple.cfg</Filename>
+  </ModOp>
+  <ImyaTweaks Title="Visual" />
+  <ImyaExpose Path="self::Text" ModOpID="Section1" ExposeID="Description" />
+  <ImyaExpose Path="." ModOpID="GiftBoxReplacement1" ExposeID="Gift Yellow" Kind="Toggle">
+    <AltValue>
+      <Filename>data/graphics/quest/objects/box_stack_large/large_wooden_boxes_03.cfg</Filename>
+    </AltValue>
+  </ImyaExpose>
+  <ImyaExpose Path="." ModOpID="GiftBoxReplacement2" ExposeID="Gift Blue" Kind="Toggle">
+    <AltValue>
+      <Filename>data/graphics/quest/objects/box_stack_large/large_wooden_boxes_03.cfg</Filename>
+    </AltValue>
+  </ImyaExpose>
+  <ImyaExpose Path="." ModOpID="GiftBoxReplacement3" ExposeID="Gift Green" Kind="Toggle">
+    <AltValue>
+      <Filename>data/graphics/quest/objects/box_stack_large/large_wooden_boxes_03.cfg</Filename>
+    </AltValue>
+  </ImyaExpose>
+  <ImyaExpose Path="." ModOpID="GiftBoxReplacement4" ExposeID="Gift Red" Kind="Toggle">
+    <AltValue>
+      <Filename>data/graphics/quest/objects/box_stack_large/large_wooden_boxes_03.cfg</Filename>
+    </AltValue>
+  </ImyaExpose>
+  <ImyaExpose Path="." ModOpID="GiftBoxReplacement5" ExposeID="Gift purple" Kind="Toggle">
+    <AltValue>
+      <Filename>data/graphics/quest/objects/box_stack_large/large_wooden_boxes_03.cfg</Filename>
+    </AltValue>
+  </ImyaExpose>
+  <Include File="./visual.include.imyatweak.include.xml" />
+</ModOps>

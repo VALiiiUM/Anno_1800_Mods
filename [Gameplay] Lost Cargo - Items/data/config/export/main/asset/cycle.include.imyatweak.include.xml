@@ -1,0 +1,11 @@
+<ModOps>
+  <ModOp Path="/Values/Text/LocaText/English/Text" GUID="260369" Type="add">
+    <Text>Set the quantity of cargo per cycle and time between cycles.</Text>
+  </ModOp>
+  <ModOp Path="/Values/QuestPool/QuestLimit" GUID="1345005021" Type="replace">
+    <QuestLimit>3</QuestLimit>
+  </ModOp>
+  <ModOp Path="/Values/Quest" GUID="1345005001,1345005002,1345005003,1345005004,1345005005,1345005006,1345005007,1345005008,1345005009,1345005010,1345005011,1345005012,1345005013,1345005014,1345005015,1345005016,1345005017,1345005018,1345005019,1345005020" Type="add">
+    <DelayTimer>1200000</DelayTimer>
+  </ModOp>
+</ModOps>

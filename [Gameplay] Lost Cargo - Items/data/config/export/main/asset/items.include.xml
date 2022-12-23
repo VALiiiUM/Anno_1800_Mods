@@ -1,0 +1,44 @@
+<ModOps>
+  <ModOp GUID="260370" Type="add" Path="/Values/Text/LocaText/English/Text" ModOpID="Section3" Skip="1">
+    <Text>Add or remove rarity from the item pool.</Text>
+  </ModOp>
+  <!-- DUMMY ITEM REPLACEMENT EPIC 1 -->
+  <ModOp Type="add" GUID="193855" Path="/Values/ItemReplacementPool/ReplacementPools" ModOpID="AddEpicPool1" Skip="1">
+    <Item>
+      <DummyItem>1345005053</DummyItem>
+      <ReplacementPool>1345005048</ReplacementPool>
+    </Item>
+  </ModOp>
+  <!-- DUMMY ITEM REPLACEMENT EPIC 2 -->
+  <ModOp Type="add" GUID="193855" Path="/Values/ItemReplacementPool/ReplacementPools" ModOpID="AddEpicPool2" Skip="1">
+    <Item>
+      <DummyItem>1345005055</DummyItem>
+      <ReplacementPool>1345005050</ReplacementPool>
+    </Item>
+  </ModOp>
+  <!-- DUMMY ITEM REPLACEMENT LEGENDARY 1 -->
+  <ModOp Type="add" GUID="193855" Path="/Values/ItemReplacementPool/ReplacementPools" ModOpID="AddLegendaryPool1" Skip="1">
+    <Item>
+      <DummyItem>1345005057</DummyItem>
+      <ReplacementPool>1345005052</ReplacementPool>
+    </Item>
+  </ModOp>
+  <ImyaTweaks Title="Item Pool" />
+  <ImyaExpose Path="self::Text" ModOpID="Section3" ExposeID="Description" />
+  <ImyaExpose Path="self::Item/ReplacementPool" ModOpID="AddEpicPool1" ExposeID="Add Epic" Kind="Toggle">
+    <AltValue>
+      <ReplacementPool>1345005054</ReplacementPool>
+    </AltValue>
+  </ImyaExpose>
+  <ImyaExpose Path="self::Item/ReplacementPool" ModOpID="AddEpicPool2" ExposeID="Add More Epic" Kind="Toggle">
+    <AltValue>
+      <ReplacementPool>1345005056</ReplacementPool>
+    </AltValue>
+  </ImyaExpose>
+  <ImyaExpose Path="self::Item/ReplacementPool" ModOpID="AddLegendaryPool1" ExposeID="Add Legendary" Kind="Toggle">
+    <AltValue>
+      <ReplacementPool>1345005058</ReplacementPool>
+    </AltValue>
+  </ImyaExpose>
+  <Include File="./items.include.imyatweak.include.xml" />
+</ModOps>

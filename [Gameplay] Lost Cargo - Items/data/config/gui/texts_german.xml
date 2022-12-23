@@ -1,0 +1,15 @@
+<ModOps>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID='3472']/Text" ModOpID="RewardTextGer" Skip="1">
+    <Text>Verlorene Fracht gefunden!</Text>
+  </ModOp>
+  <ImyaTweaks Title="German" />
+  <ImyaExpose Path="self::Text" ModOpID="RewardTextGer" ExposeID="Reward Text" Kind="Enum">
+    <FixedValues>
+      <Value>Verlorene Fracht gefunden!</Value>
+      <Value>Frohe Weihnachten!</Value>
+      <Value>Alles Gute zum Geburtstag!</Value>
+      <Value>Belohnung gefunden!</Value>
+    </FixedValues>
+  </ImyaExpose>
+  <Include File="./texts_german.imyatweak.include.xml" />
+</ModOps>

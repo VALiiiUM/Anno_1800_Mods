@@ -1,0 +1,59 @@
+{
+  "Version": "1.01",
+  "ModID": "LostCargo_Items",
+  "IncompatibleIds": null,
+  "ModDependencies": null,
+  "Category": {
+    "Chinese": null,
+    "English": "Gameplay",
+    "French": null,
+    "German": "Spielablauf",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "ModName": {
+    "Chinese": null,
+    "English": "Lost Cargo : Items",
+    "French": null,
+    "German": "Lost Cargo : Items",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "Description": {
+    "Chinese": null,
+    "English": "Get items by finding lost cargo in the Old World.",
+    "French": null,
+    "German": "Holen Sie sich Gegenstände, indem Sie verlorene Fracht in der Alten Welt finden.",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "KnownIssues": "None. Yet",
+  "DLCDependencies": [
+    {
+      "DLC": "ThePassage",
+      "Dependant": "required"
+    },
+    {
+      "DLC": "EmpireOfTheSkies",
+      "Dependant": "required"
+    }
+  ],
+  "CreatorName": "VAL3iUM",
+  "CreatorContact": "https://discord.gg/xwC4YfcKZx",
+  "Image" : null
+}

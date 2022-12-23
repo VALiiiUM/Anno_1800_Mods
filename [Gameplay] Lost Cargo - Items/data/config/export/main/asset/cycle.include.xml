@@ -1,0 +1,31 @@
+<ModOps>
+  <ModOp GUID="260369" Type="add" Path="/Values/Text/LocaText/English/Text" ModOpID="Section2" Skip="1">
+    <Text>Set the quantity of cargo per cycle and time between cycles.</Text>
+  </ModOp>
+  <ModOp GUID="1345005021" Type="replace" Path="/Values/QuestPool/QuestLimit" ModOpID="LostCargolimit" Skip="1">
+    <QuestLimit>3</QuestLimit>
+  </ModOp>
+  <ModOp GUID="1345005001,1345005002,1345005003,1345005004,1345005005,1345005006,1345005007,1345005008,1345005009,1345005010,1345005011,1345005012,1345005013,1345005014,1345005015,1345005016,1345005017,1345005018,1345005019,1345005020" Type="add" Path="/Values/Quest" ModOpID="LostCargoDelay" Skip="1">
+    <DelayTimer>1200000</DelayTimer>
+  </ModOp>
+  <ImyaTweaks Title="Cycle Settings" />
+  <ImyaExpose Path="self::Text" ModOpID="Section2" ExposeID="Description" />
+  <ImyaExpose Path="self::QuestLimit" ModOpID="LostCargolimit" ExposeID="Cargo limit" Kind="Slider">
+    <SliderDefinition Min="1" Max="20" Stepping="1" />
+  </ImyaExpose>
+  <ImyaExpose Path="self::DelayTimer" ModOpID="LostCargoDelay" ExposeID="Cycle Delay" Description="[Default=20min]" Kind="Enum">
+    <FixedValues>
+      <Value>1200000</Value>
+      <Value>60000</Value>
+      <Value>300000</Value>
+      <Value>600000</Value>
+      <Value>900000</Value>
+      <Value>1500000</Value>
+      <Value>1800000</Value>
+      <Value>2700000</Value>
+      <Value>3600000</Value>
+      <Value>7200000</Value>
+    </FixedValues>
+  </ImyaExpose>
+  <Include File="./cycle.include.imyatweak.include.xml" />
+</ModOps>

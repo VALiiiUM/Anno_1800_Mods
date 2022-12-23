@@ -1,0 +1,23 @@
+<ModOps>
+  <ModOp Path="/Values/Text/LocaText/English/Text" GUID="260370" Type="add">
+    <Text>Add or remove rarity from the item pool.</Text>
+  </ModOp>
+  <ModOp Path="/Values/ItemReplacementPool/ReplacementPools" GUID="193855" Type="add">
+    <Item>
+      <DummyItem>1345005053</DummyItem>
+      <ReplacementPool>1345005054</ReplacementPool>
+    </Item>
+  </ModOp>
+  <ModOp Path="/Values/ItemReplacementPool/ReplacementPools" GUID="193855" Type="add">
+    <Item>
+      <DummyItem>1345005055</DummyItem>
+      <ReplacementPool>1345005056</ReplacementPool>
+    </Item>
+  </ModOp>
+  <ModOp Path="/Values/ItemReplacementPool/ReplacementPools" GUID="193855" Type="add">
+    <Item>
+      <DummyItem>1345005057</DummyItem>
+      <ReplacementPool>1345005058</ReplacementPool>
+    </Item>
+  </ModOp>
+</ModOps>
