@@ -2,4 +2,4 @@
 
 ## Lost Cargo : Items
 
-![](./files/lostcargo.jpg)
+![](./files/lostcargobanner.jpg)
