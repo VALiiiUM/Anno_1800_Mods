@@ -1,0 +1,271 @@
+<ModOps>
+  <ModOp Type="addPrevSibling" GUID="25000190" Path="Values/ConstructionCategory/BuildingList/Item[Building = '500024']">
+    <!-- MODERATE construction menu 2 (tier)  -->
+    <Item>
+      <Building>1010344</Building>
+      <!-- worker residence -->
+    </Item>
+  </ModOp>
+  <ModOp Type="Replace" GUID="1010344" Path="Values/Standard/IconFilename">
+    <IconFilename>data/ui/2kimages/main/3dicons/resident/icon_worker_residence.png</IconFilename>
+  </ModOp>
+  <ModOp Type="addPrevSibling" GUID="25000191" Path="Values/ConstructionCategory/BuildingList/Item[Building = '500010']">
+    <!-- MODERATE construction menu 3 (tier)  -->
+    <Item>
+      <Building>1010345</Building>
+      <!-- artisan residence -->
+    </Item>
+  </ModOp>
+  <ModOp Type="Replace" GUID="1010345" Path="Values/Standard/IconFilename">
+    <IconFilename>data/ui/2kimages/main/3dicons/resident/icon_artisan_residence.png</IconFilename>
+  </ModOp>
+  <ModOp Type="addPrevSibling" GUID="25000192" Path="Values/ConstructionCategory/BuildingList/Item[Building = '500016']">
+    <!-- MODERATE construction menu 4 (tier)  -->
+    <Item>
+      <Building>1010346</Building>
+      <!-- engineer residence -->
+    </Item>
+  </ModOp>
+  <ModOp Type="Replace" GUID="1010346" Path="Values/Standard/IconFilename">
+    <IconFilename>data/ui/2kimages/main/3dicons/resident/icon_engineer_residence.png</IconFilename>
+  </ModOp>
+  <ModOp Type="addPrevSibling" GUID="500447" Path="Values/ConstructionCategory/BuildingList/Item[Building = '1010489']">
+    <!-- MODERATE construction menu 5 (tier)  -->
+    <Item>
+      <Building>1010347</Building>
+      <!-- investor residence -->
+    </Item>
+  </ModOp>
+  <ModOp Type="Replace" GUID="1010347" Path="Values/Standard/IconFilename">
+    <IconFilename>data/ui/2kimages/main/3dicons/resident/icon_investor_residence.png</IconFilename>
+  </ModOp>
+  <ModOp Type="addPrevSibling" GUID="25000194" Path="Values/ConstructionCategory/BuildingList/Item[Building = '500910']">
+    <!-- MODERATE construction menu 5 (tier)  -->
+    <Item>
+      <Building>101255</Building>
+      <!-- obrero residence -->
+    </Item>
+  </ModOp>
+  <ModOp Type="Replace" GUID="101255" Path="Values/Standard/IconFilename">
+    <IconFilename>data/ui/2kimages/main/3dicons/resident/icon_obrero_residence.png</IconFilename>
+  </ModOp>
+  <ModOp Type="addPrevSibling" GUID="5466" Path="Values/ConstructionCategory/BuildingList/Item[Building = '6623']">
+    <!-- MODERATE construction menu 5 (tier)  -->
+    <Item>
+      <Building>5405</Building>
+      <!-- artista residence -->
+    </Item>
+  </ModOp>
+  <ModOp Type="Replace" GUID="5405" Path="Values/Standard/IconFilename">
+    <IconFilename>data/ui/2kimages/main/3dicons/resident/icon_artista_residence.png</IconFilename>
+  </ModOp>
+  <ModOp Type="addPrevSibling" GUID="112791" Path="Values/ConstructionCategory/BuildingList/Item[Building = '8528']">
+    <!-- MODERATE construction menu 5 (tier)  -->
+    <Item>
+      <Building>112652</Building>
+      <!-- technician residence -->
+    </Item>
+  </ModOp>
+  <ModOp Type="Replace" GUID="112652" Path="Values/Standard/IconFilename">
+    <IconFilename>data/ui/2kimages/main/3dicons/resident/icon_technician_residence.png</IconFilename>
+  </ModOp>
+  <ModOp Type="addPrevSibling" GUID="114554" Path="Values/ConstructionCategory/BuildingList/Item[Building = '114566']">
+    <!-- MODERATE construction menu 5 (tier)  -->
+    <Item>
+      <Building>114437</Building>
+      <!-- elder residence -->
+    </Item>
+  </ModOp>
+  <ModOp Type="Replace" GUID="114437" Path="Values/Standard/IconFilename">
+    <IconFilename>data/ui/2kimages/main/3dicons/resident/icon_elder_residence.png</IconFilename>
+  </ModOp>
+  <ModOp Type="Replace" GUID="1010344" Path="Values/Cost/Costs" ModOpID="WorkerNoBuildCost" Skip="1">
+    <Costs>
+      <Item>
+        <Ingredient>1010017</Ingredient>
+        <Amount>1</Amount>
+      </Item>
+    </Costs>
+  </ModOp>
+  <ModOp Type="Replace" GUID="1010345" Path="Values/Cost/Costs" ModOpID="ArtisanNoBuildCost" Skip="1">
+    <Costs>
+      <Item>
+        <Ingredient>1010017</Ingredient>
+        <Amount>1</Amount>
+      </Item>
+    </Costs>
+  </ModOp>
+  <ModOp Type="Replace" GUID="1010346" Path="Values/Cost/Costs" ModOpID="EngineerNoBuildCost" Skip="1">
+    <Costs>
+      <Item>
+        <Ingredient>1010017</Ingredient>
+        <Amount>1</Amount>
+      </Item>
+    </Costs>
+  </ModOp>
+  <ModOp Type="Replace" GUID="1010347" Path="Values/Cost/Costs" ModOpID="InvestorNoBuildCost" Skip="1">
+    <Costs>
+      <Item>
+        <Ingredient>1010017</Ingredient>
+        <Amount>1</Amount>
+      </Item>
+    </Costs>
+  </ModOp>
+  <ModOp Type="Replace" GUID="101255" Path="Values/Cost/Costs" ModOpID="ObreroNoBuildCost" Skip="1">
+    <Costs>
+      <Item>
+        <Ingredient>1010017</Ingredient>
+        <Amount>1</Amount>
+      </Item>
+    </Costs>
+  </ModOp>
+  <ModOp Type="Replace" GUID="5405" Path="Values/Cost/Costs" ModOpID="ArtistaNoBuildCost" Skip="1">
+    <Costs>
+      <Item>
+        <Ingredient>1010017</Ingredient>
+        <Amount>1</Amount>
+      </Item>
+    </Costs>
+  </ModOp>
+  <ModOp Type="Replace" GUID="112652" Path="Values/Cost/Costs" ModOpID="TechnicianNoBuildCost" Skip="1">
+    <Costs>
+      <Item>
+        <Ingredient>1010017</Ingredient>
+        <Amount>1</Amount>
+      </Item>
+    </Costs>
+  </ModOp>
+  <ModOp Type="Replace" GUID="114437" Path="Values/Cost/Costs" ModOpID="ElderNoBuildCost" Skip="1">
+    <Costs>
+      <Item>
+        <Ingredient>1010017</Ingredient>
+        <Amount>1</Amount>
+      </Item>
+    </Costs>
+  </ModOp>
+  <ModOp GUID="260369" Type="add" Path="/Values/Text/LocaText/English/Text" ModOpID="9Section1" Skip="1">
+    <Text>Activate to remove the building/upgrade costs of residences.</Text>
+  </ModOp>
+  <ImyaExpose Path="self::Text" ModOpID="9Section1" ExposeID="ResidentBuildCost" />
+  <ImyaExpose Path="self::Costs" ModOpID="WorkerNoBuildCost" ExposeID="WorkerNoBuildCost" Kind="Toggle">
+    <AltValue>
+      <Costs>
+        <Item>
+          <Ingredient>1010196</Ingredient>
+          <Amount>8</Amount>
+        </Item>
+      </Costs>
+    </AltValue>
+  </ImyaExpose>
+  <ImyaExpose Path="self::Costs" ModOpID="ArtisanNoBuildCost" ExposeID="ArtisanNoBuildCost" Kind="Toggle">
+    <AltValue>
+      <Costs>
+        <Item>
+          <Ingredient>1010196</Ingredient>
+          <Amount>20</Amount>
+        </Item>
+        <Item>
+          <Ingredient>1010205</Ingredient>
+          <Amount>2</Amount>
+        </Item>
+        <Item>
+          <Ingredient>1010218</Ingredient>
+          <Amount>2</Amount>
+        </Item>
+      </Costs>
+    </AltValue>
+  </ImyaExpose>
+  <ImyaExpose Path="self::Costs" ModOpID="EngineerNoBuildCost" ExposeID="EngineerNoBuildCost" Kind="Toggle">
+    <AltValue>
+      <Costs>
+        <Item>
+          <Ingredient>1010196</Ingredient>
+          <Amount>40</Amount>
+        </Item>
+        <Item>
+          <Ingredient>1010205</Ingredient>
+          <Amount>7</Amount>
+        </Item>
+        <Item>
+          <Ingredient>1010218</Ingredient>
+          <Amount>6</Amount>
+        </Item>
+        <Item>
+          <Ingredient>1010207</Ingredient>
+          <Amount>2</Amount>
+        </Item>
+      </Costs>
+    </AltValue>
+  </ImyaExpose>
+  <ImyaExpose Path="self::Costs" ModOpID="InvestorNoBuildCost" ExposeID="InvestorNoBuildCost" Kind="Toggle">
+    <AltValue>
+      <Costs>
+        <Item>
+          <Ingredient>1010196</Ingredient>
+          <Amount>70</Amount>
+        </Item>
+        <Item>
+          <Ingredient>1010205</Ingredient>
+          <Amount>16</Amount>
+        </Item>
+        <Item>
+          <Ingredient>1010218</Ingredient>
+          <Amount>13</Amount>
+        </Item>
+        <Item>
+          <Ingredient>1010207</Ingredient>
+          <Amount>7</Amount>
+        </Item>
+        <Item>
+          <Ingredient>1010202</Ingredient>
+          <Amount>3</Amount>
+        </Item>
+      </Costs>
+    </AltValue>
+  </ImyaExpose>
+  <ImyaExpose Path="self::Costs" ModOpID="ObreroNoBuildCost" ExposeID="ObreroNoBuildCost" Kind="Toggle">
+    <AltValue>
+      <Costs>
+        <Item>
+          <Ingredient>1010196</Ingredient>
+          <Amount>4</Amount>
+        </Item>
+      </Costs>
+    </AltValue>
+  </ImyaExpose>
+  <ImyaExpose Path="self::Costs" ModOpID="ArtistaNoBuildCost" ExposeID="ArtistaNoBuildCost" Kind="Toggle">
+    <AltValue>
+      <Costs>
+        <Item>
+          <Ingredient>1010196</Ingredient>
+          <Amount>10</Amount>
+        </Item>
+        <Item>
+          <Ingredient>1010205</Ingredient>
+          <Amount>2</Amount>
+        </Item>
+      </Costs>
+    </AltValue>
+  </ImyaExpose>
+  <ImyaExpose Path="self::Costs" ModOpID="TechnicianNoBuildCost" ExposeID="TechnicianNoBuildCost" Kind="Toggle">
+    <AltValue>
+      <Costs>
+        <Item>
+          <Ingredient>1010196</Ingredient>
+          <Amount>8</Amount>
+        </Item>
+      </Costs>
+    </AltValue>
+  </ImyaExpose>
+  <ImyaExpose Path="self::Costs" ModOpID="ElderNoBuildCost" ExposeID="ElderNoBuildCost" Kind="Toggle">
+    <AltValue>
+      <Costs>
+        <Item>
+          <Ingredient>114356</Ingredient>
+          <Amount>4</Amount>
+        </Item>
+      </Costs>
+    </AltValue>
+  </ImyaExpose>
+  <Include File="./assets.imyatweak.include.xml" />
+</ModOps>

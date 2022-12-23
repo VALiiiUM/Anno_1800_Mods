@@ -1,0 +1,63 @@
+{
+  "Version": "1.01",
+  "ModID": "Insta_Residences",
+  "IncompatibleIds": null,
+  "ModDependencies": null,
+  "Category": {
+    "Chinese": null,
+    "English": "Gameplay",
+    "French": null,
+    "German": "Spielablauf",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "ModName": {
+    "Chinese": null,
+    "English": "Insta Residences",
+    "French": null,
+    "German": "Insta Residences",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "Description": {
+    "Chinese": null,
+    "English": "Built the tier you want! By default, for every residences, the costs of previous tiers has been added. You can remove the building cost in the iMYA Tweaker",
+    "French": null,
+    "German": "Bauen Sie die Stufe, die Sie wollen! Standardmäßig werden für alle Residenzen die Kosten der vorherigen Stufen hinzugefügt. Sie können die Baukosten im iMYA Tweaker entfernen.",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "KnownIssues": "None. Yet",
+  "DLCDependencies": [
+    {
+      "DLC": "NewWorldRising",
+      "Dependant": "not required"
+    },
+    {
+      "DLC": "LandOfLions",
+      "Dependant": "not required"
+    },
+    {
+      "DLC": "ThePassage",
+      "Dependant": "not required"
+    }
+  ],
+  "CreatorName": "VAL3iUM",
+  "CreatorContact": "https://discord.gg/xwC4YfcKZx",
+  "Image" : null
+}

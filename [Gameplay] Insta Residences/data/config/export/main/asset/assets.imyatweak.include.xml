@@ -1,0 +1,109 @@
+<ModOps>
+  <ModOp Path="Values/Cost/Costs" GUID="1010344" Type="Replace">
+    <Costs>
+      <Item>
+        <Ingredient>1010196</Ingredient>
+        <Amount>8</Amount>
+      </Item>
+    </Costs>
+  </ModOp>
+  <ModOp Path="Values/Cost/Costs" GUID="1010345" Type="Replace">
+    <Costs>
+      <Item>
+        <Ingredient>1010196</Ingredient>
+        <Amount>20</Amount>
+      </Item>
+      <Item>
+        <Ingredient>1010205</Ingredient>
+        <Amount>2</Amount>
+      </Item>
+      <Item>
+        <Ingredient>1010218</Ingredient>
+        <Amount>2</Amount>
+      </Item>
+    </Costs>
+  </ModOp>
+  <ModOp Path="Values/Cost/Costs" GUID="1010346" Type="Replace">
+    <Costs>
+      <Item>
+        <Ingredient>1010196</Ingredient>
+        <Amount>40</Amount>
+      </Item>
+      <Item>
+        <Ingredient>1010205</Ingredient>
+        <Amount>7</Amount>
+      </Item>
+      <Item>
+        <Ingredient>1010218</Ingredient>
+        <Amount>6</Amount>
+      </Item>
+      <Item>
+        <Ingredient>1010207</Ingredient>
+        <Amount>2</Amount>
+      </Item>
+    </Costs>
+  </ModOp>
+  <ModOp Path="Values/Cost/Costs" GUID="1010347" Type="Replace">
+    <Costs>
+      <Item>
+        <Ingredient>1010196</Ingredient>
+        <Amount>70</Amount>
+      </Item>
+      <Item>
+        <Ingredient>1010205</Ingredient>
+        <Amount>16</Amount>
+      </Item>
+      <Item>
+        <Ingredient>1010218</Ingredient>
+        <Amount>13</Amount>
+      </Item>
+      <Item>
+        <Ingredient>1010207</Ingredient>
+        <Amount>7</Amount>
+      </Item>
+      <Item>
+        <Ingredient>1010202</Ingredient>
+        <Amount>3</Amount>
+      </Item>
+    </Costs>
+  </ModOp>
+  <ModOp Path="Values/Cost/Costs" GUID="101255" Type="Replace">
+    <Costs>
+      <Item>
+        <Ingredient>1010196</Ingredient>
+        <Amount>4</Amount>
+      </Item>
+    </Costs>
+  </ModOp>
+  <ModOp Path="Values/Cost/Costs" GUID="5405" Type="Replace">
+    <Costs>
+      <Item>
+        <Ingredient>1010196</Ingredient>
+        <Amount>10</Amount>
+      </Item>
+      <Item>
+        <Ingredient>1010205</Ingredient>
+        <Amount>2</Amount>
+      </Item>
+    </Costs>
+  </ModOp>
+  <ModOp Path="Values/Cost/Costs" GUID="112652" Type="Replace">
+    <Costs>
+      <Item>
+        <Ingredient>1010196</Ingredient>
+        <Amount>8</Amount>
+      </Item>
+    </Costs>
+  </ModOp>
+  <ModOp Path="Values/Cost/Costs" GUID="114437" Type="Replace">
+    <Costs>
+      <Item>
+        <Ingredient>114356</Ingredient>
+        <Amount>4</Amount>
+      </Item>
+    </Costs>
+  </ModOp>
+  <ModOp Path="/Values/Text/LocaText/English/Text" GUID="260369" Type="add">
+    <Text>Activate to remove the building/upgrade costs of residences.</Text>
+  </ModOp>
+</ModOps>
