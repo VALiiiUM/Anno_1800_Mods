@@ -2,4 +2,4 @@
 
 ![](./files/lostcargobanner.jpg)
 
-## Description
+Get Lost Cargo with items in the Old World.
