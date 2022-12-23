@@ -2,4 +2,4 @@
 
 ## Lost Cargo : Items
 
-![](./[Gameplay] Lost Cargo - Items/banner.png)
+![](./[Gameplay] Lost Cargo - Items/banner.jpg)
