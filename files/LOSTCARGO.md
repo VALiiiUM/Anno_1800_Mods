@@ -1,6 +1,6 @@
 # Lost Cargo : Items
 
-![](./files/lostcargomd.jpg)
+![](./lostcargomd.jpg)
 
 Get Lost Cargo with items in the Old World.
 
@@ -12,14 +12,14 @@ Get Lost Cargo with items in the Old World.
 
 ## Requirements 
 
-- You must have The passage ![](./files/icon_dlc_passage.png) or Empire of the Skies ![](./files/icon_dlc_eots.png) to use this mod, as you need airships to pick up cargo.
+- You must have The passage DLC or Empire of the Skies DLC to use this mod, as you need airships to pick up cargo.
 
 ## iMYA Tweaks
 
-![](./files/lostcargoiMYA.jpg)
+![](./lostcargoiMYA.jpg)
 
 Get [iModYourAnno](https://github.com/anno-mods/iModYourAnno/releases)
 
 ### Note
 
-- When you tweak the time between cycles the change will take effect at the next cycle.
+- When you tweak the time between cycles the change will take effect after the current cycle.
