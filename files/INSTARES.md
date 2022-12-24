@@ -1,6 +1,6 @@
 # Insta Residences
 
-![](./files/instaresmd.jpg)
+![](./instaresmd.jpg)
 
 Upgrade? Build the tier you want!
 
@@ -12,6 +12,6 @@ Upgrade? Build the tier you want!
 
 ## iMYA Tweaks
 
-![](./files/instaresiMYA.jpg)
+![](./instaresiMYA.jpg)
 
 Get [iModYourAnno](https://github.com/anno-mods/iModYourAnno/releases)
