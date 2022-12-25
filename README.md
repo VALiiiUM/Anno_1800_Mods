@@ -1,8 +1,14 @@
-# Armed Airship : The Classic
+# New Exhibits (Coming Soon)
+
+![](./files/newexhibitsbanner.jpg)
+
+- Add a World's fair extension with 3 new exhibits.
+
+# Armed Airship : The Classic (Coming Next)
 
 ![](./files/theclassicbanner.jpg)
 
-- Add a new armed airship, The Classic. [More Details](./files/THECLASSIC.md)
+- Add a new armed airship, The Classic. 
 
 # Lost Cargo : Items
 
