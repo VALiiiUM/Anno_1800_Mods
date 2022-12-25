@@ -1,3 +1,9 @@
+# Armed Airship : The Classic
+
+![](./files/theclassicbanner.jpg)
+
+- Add a new armed airship, The Classic. [More Details](./files/THECLASSIC.md)
+
 # Lost Cargo : Items
 
 ![](./files/lostcargobanner.jpg)
