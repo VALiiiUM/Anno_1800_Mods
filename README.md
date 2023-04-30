@@ -10,6 +10,13 @@
 
 - Add a new armed airship, The Classic. 
 
+# Air Pirate
+
+![](./files/airpiratebanner.jpg)
+
+- Add Airhip, Flak Tower and Flak Monitor to Pirates. [More Details](./files/AIRPIRATE.md)
+
+
 # Lost Cargo : Items
 
 ![](./files/lostcargobanner.jpg)
