@@ -20,7 +20,8 @@ Add Airhip, Flak Tower and Flak Monitor to Pirates.
 ## Compatibility Issues
 
 - EL IMPOLUTO  by StreaMRoLLeR
-  This mod replace an entire profile used in many vanilla quests and can potentially break them, same goes for mods that use the profile in vanilla state as some of mine
+ 
+  This mod replace an entire profile used in many vanilla quests and can potentially break them, same goes for mods that use the profile in vanilla state as       some of mine
   
 ## iMYA Tweaks
 
