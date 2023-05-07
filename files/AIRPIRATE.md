@@ -17,6 +17,11 @@ Add Airhip, Flak Tower and Flak Monitor to Pirates.
 
 - You must have Empire of the Skies DLC to use this mod.
 
+## Compatibility Issues
+
+- EL IMPOLUTO  by StreaMRoLLeR
+  This mod replace an entire profile used in many vanilla quests and can potentially break them, same goes for mods that use the profile in vanilla state as some of mine
+  
 ## iMYA Tweaks
 
 ![](./airpirateiMYA.jpg)
