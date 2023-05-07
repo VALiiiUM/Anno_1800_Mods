@@ -28,8 +28,11 @@ Add Airhip, Flak Tower and Flak Monitor to Pirates.
 
 ![](./airpirateiMYA.jpg)
 
+## Download
+
+Get [Air Pirate](https://github.com/VALiiiUM/Anno_1800_Mods/releases/tag/v1.01)
 Get [iModYourAnno](https://github.com/anno-mods/iModYourAnno/releases)
 
 ### Note
 
-- Nothing yet.
+- Nothing yet. 
